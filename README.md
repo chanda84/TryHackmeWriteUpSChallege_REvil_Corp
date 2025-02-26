@@ -1,6 +1,4 @@
-# TryHackmeWriteUpSChallege_REvil_Corp
-
-** REvilCorp TryHackMe Writeup
+# TryHackmeWriteUpS_Challege_REvil_Corp
 
 Este writeup documenta la resolución del desafío REvilCorp de TryHackMe, utilizando la herramienta Redline de FireEye para el análisis forense de un host comprometido.
 
